@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    /*left: 9px;*/
+    width: 1366px;
+    height: 768px;
+    font-family: Raleway, sans-serif;
+    background: url("Images/backgr_main.png") no-repeat transparent padding-box right;
+    background-color: #F4F5F7;
+    opacity: 1
+}
+
+.container {
+    margin: 44px 83px 131px;
+}
+
+.navbar-brad img {
+    /*padding-top: 44px;*/
+    /*margin: 44px 1018px 649px 131px;*/
+    /*width: 217px;*/
+    /*height: 75px;*/
+}
+
+/*.navbar-nav {*/
+/*    align-items: center;*/
+/*    float: right;*/
+/*}*/
+
+.nav-item {
+    height: 21px;
+    font: normal normal bold 18px/21px Raleway;
+    text-decoration: #593D3D;
+}
+
+.btn-light {
+    /*height: 47px;*/
+    border-radius: 1rem 1rem 1rem 1rem;
+/*    text-decoration: #FFFFFF;*/
+    background-color: #8DA3FF;
+    /*align-content: center;*/
+}
+
+.h1 {
+    margin-top: 236px;
+    height: 57px;
+    text-align: left;
+    font: normal normal bold 49px/57px Raleway;
+    letter-spacing: 0;
+    opacity: 1;
+}
+
+#always {
+    color: #FFD836;
+}
+
+#home {
+    color: #6882EF;
+}
+
+p {
+    top: 358px;
+    width: 374px;
+    height: 142px;
+    text-align: left;
+    font: normal normal medium Raleway;
+    letter-spacing: 0;
+    color: #593D3D;
+    opacity: 1;
+}
+
+#imgclean {
+    top: 171px;
+    opacity: 1;
+}
+
+/*#logo {*/
+/*    top: 44px;*/
+/*    left: 131px;*/
+/*    width: 217px;*/
+/*    height: 75px;*/
+
+/*}*/
